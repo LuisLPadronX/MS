@@ -1,0 +1,6 @@
+{
+  "name": "Ms",
+  "description": "Cliente de música basado en YouTube con interfaz Liquid Glass monocromática, reproducción sin interrupciones y caché automática.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
